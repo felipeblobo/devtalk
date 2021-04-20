@@ -13,7 +13,7 @@ export function Header() {
 
       <img src="/logo.svg" alt="logo" />
 
-      <p>Para se manter programando informado.</p>
+      <p>Para se manter programando .</p>
 
       <span>{currentDate}</span>
 
