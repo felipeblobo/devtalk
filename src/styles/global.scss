@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  outline: 0;
   box-sizing: border-box;
 }
 
@@ -21,7 +22,13 @@
   --purple-800: #6f48c9;
 
   --orange-400: #D56C35;
+  --orange-300: #f29263;
+
+
+
   --blue-200: #588587;
+  --blue-100: #54a0a3;
+  --blue-50: #7dc1c4;
 }
 
 @media (max-width: 1080px) {
