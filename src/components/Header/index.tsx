@@ -13,7 +13,7 @@ export function Header() {
 
       <img src="/podcast2.png" alt="logo" />
 
-      <p>Para se manter programando .</p>
+      <p>Para se manter programando atualizado.</p>
 
       <span>{currentDate}</span>
 
