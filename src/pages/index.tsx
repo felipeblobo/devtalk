@@ -3,7 +3,7 @@ import { Header } from "../components/Header";
 export default function Home(props) {
   return (
   <>
-   {/* <p>{JSON.stringify(props.episodes)}</p> */}
+   <p>{JSON.stringify(props.episodes)}</p>
   </>
   )
 }

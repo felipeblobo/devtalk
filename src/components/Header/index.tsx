@@ -11,7 +11,7 @@ export function Header() {
   return (
     <header className={styles.headerContainer}>
 
-      <img src="/podcast.png" alt="logo" />
+      <img src="/podcast2.png" alt="logo" />
 
       <p>Para se manter programando .</p>
 
