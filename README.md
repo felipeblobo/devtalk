@@ -8,7 +8,7 @@
 
 <br>
 
-## 💻 Projeto
+## 💻 Project
 O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. 
 
 <br>
@@ -18,23 +18,41 @@ O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React
 </div>
 
  
-## ⛏ Tecnologias
+## ⛏ Techs
 - [X] TypeScript
 - [X] ReactJS
 - [X] [Next.js](https://nextjs.org/docs)
 
-### Dependências
+### Dependencies
 - [X] Yarn
 - [X] Axios
 - [X] JSON-Server
 - [X] SASS
 - [X] Date-Fsn
 
+## 💻 Getting started
+
+### Requirements
+
+- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+
+**Clone the project and access the folder**
+
 ```bash
-npm run server and npm run dev
-# or
-yarn server and yarn dev
-# Open http://localhost:3000 with your browser to see the result.
+$ git clone https://github.com/felipeblobo/devtalk.git && cd devtalk
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Run the backend fake server
+$ yarn server
+
+# Run the web server
+$ yarn dev
 ```
 
 ## 📝 License
