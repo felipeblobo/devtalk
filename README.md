@@ -1,11 +1,10 @@
 <div align="center">
-    <img width=20% src="/public/iconfinder_microphone red_10479.png">
-    
+    <img width=20% src="/public/podcast2.png">
 </div>
 
 
-<div align="center" >
-<img src="https://i.imgur.com/vfVNR7r.png" alt="Exemplo da aplicação" style="margin-top: 30px">
+<div align="center" margin-top="60px" >
+<img src="https://i.imgur.com/vfVNR7r.png" alt="Exemplo da aplicação" >
 </div>
 
 ## 💻 Projeto
