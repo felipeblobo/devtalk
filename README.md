@@ -10,6 +10,11 @@
 ## 💻 Projeto
 O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. O projeto foi construído ao longo de 5 dias com tecnologias e conceitos mais recentes do desenvolvimento web, usando NextJS e React e fazendo o fetch de uma API fake para trazer novos dados diariamente.
 
+<div align="center" margin-top="60px" >
+<img src="https://i.imgur.com/0ycrtaU.png" alt="Exemplo da aplicação" >
+</div>
+
+
 ## 📜 Guia Trilha React
 <div>
 <p>Dia 1 - React e Next.js  </p> 
