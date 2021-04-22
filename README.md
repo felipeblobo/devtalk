@@ -14,7 +14,7 @@ O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React
 <br>
 <br>
 <div align="center" margin-top="60px" >
-<img src="https://i.imgur.com/0ycrtaU.png" alt="Exemplo da aplicação" >
+<img src="https://i.imgur.com/wFDVzHg.png" alt="Exemplo da aplicação" >
 </div>
 
 
