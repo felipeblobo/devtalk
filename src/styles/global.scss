@@ -35,6 +35,22 @@
   --blue-50: #7dc1c4;
 }
 
+// * Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 0.675rem;
+  
+}
+
+*::-webkit-scrollbar-track {
+  background: white;}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--orange-100);
+  border-radius: 0.5rem;
+
+}
+
+
 // @media (max-width: 1080px) {
 //   html {
 //     font-size: 93.75%; //15px
