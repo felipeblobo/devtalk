@@ -40,13 +40,13 @@
 //   }
 // }
 
-// @media (max-width: 1080px) {
-//   html {
-//     font-size: 87.5%; //14px
-//   }
-// }
+@media (max-width: 720px) {
+  html {
+    font-size: 87.5%; //14px
+  }
+}
 
-@media (max-width: 1920px) {
+@media screen and (min-device-width : 721px) and (max-device-width : 1980px) {
   html {
     font-size: 80%;
   }
