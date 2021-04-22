@@ -17,13 +17,6 @@ O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React
 <img src="https://i.imgur.com/oIdl09k.png" alt="Exemplo da aplicação" >
 </div>
 
-
-## 📜 Guia Trilha React
-<div>
-<p>Dia 1 - React e Next.js  </p> 
-<p>Dia 2 - Consumindo a API</p> 
-<p>Dia 3 - Paginação </p> 
-</div>
  
 ## ⛏ Tecnologias
 - [X] TypeScript
@@ -33,7 +26,9 @@ O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React
 ### Dependências
 - [X] Yarn
 - [X] Axios
-- [X] JSON Server
+- [X] JSON-Server
+- [X] SASS
+- [X] Date-Fsn
 
 ```bash
 npm run server and npm run dev
