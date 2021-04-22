@@ -1,6 +1,4 @@
-<div align="center">
-    <img width=20% src="/public/podcast2.png">
-</div>
+#devTalk
 
 
 <div align="center" margin-top="60px" >
