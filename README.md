@@ -1,5 +1,6 @@
 <div align="center">
-    <img width=20% src="/public/podcast.png">
+    <img width=20% src="/public/iconfinder_microphone red_10479.png">
+    
 </div>
 
 
