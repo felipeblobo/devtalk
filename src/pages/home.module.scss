@@ -12,7 +12,7 @@
 .latestEpisodes {
   ul {
     list-style: none;
-    display: grid;
+    display: grid;  
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
 
@@ -127,7 +127,7 @@
     td {
       font-size: 0.875rem;
 
-      img {
+        img {
         width: 2.5rem;
         height: 2.5rem;
         border-radius: 0.5rem;
@@ -146,6 +146,11 @@
         }
       }
     }
+
+    .toFitSize {
+      padding: 0.1rem 0.1rem;
+    }
+    
       button {
         width: 2rem;
         height: 2rem;

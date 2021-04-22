@@ -33,15 +33,21 @@
   --blue-50: #7dc1c4;
 }
 
-@media (max-width: 1080px) {
-  html {
-    font-size: 93.75%; //15px
-  }
-}
+// @media (max-width: 1080px) {
+//   html {
+//     font-size: 93.75%; //15px
+//   }
+// }
 
-@media (max-width: 1080px) {
+// @media (max-width: 1080px) {
+//   html {
+//     font-size: 87.5%; //14px
+//   }
+// }
+
+@media (max-width: 1920px) {
   html {
-    font-size: 87.5%; //14px
+    font-size: 80%;
   }
 }
 
