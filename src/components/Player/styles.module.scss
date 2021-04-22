@@ -90,7 +90,12 @@
       width: 4rem;
       height: 4rem;
       border-radius: 1rem;
-      background: var(--orange-400);
+      background: var(--orange-400)
     }
+
+    &.playButton:hover {
+      background: var(--orange-500);
+    }
+
   }
 }
