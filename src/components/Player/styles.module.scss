@@ -29,7 +29,7 @@
     align-self: stretch;
   }
 
-  &.empty {
+  &.empty .progress{
     opacity: 0.5;
   }
 }
@@ -107,13 +107,19 @@
     border: 0;
     font-size: 0;
 
-    &:disabled {
+    &:disabled:not(.playButton) {
       cursor: default;
+      opacity: 0.3
     }
 
     &:hover:not(:disabled):not(.playButton) {
       filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg)
         brightness(104%) contrast(97%);
+    }
+
+    &.isActive {
+      filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg)
+      brightness(104%) contrast(97%);
     }
 
     &.playButton {
@@ -126,6 +132,10 @@
 
     &.playButton:hover:not(:disabled) {
       background: var(--orange-500);
+    }
+
+    &.playButton:disabled {
+      opacity: 0.7
     }
   }
 }
