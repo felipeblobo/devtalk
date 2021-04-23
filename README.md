@@ -3,7 +3,7 @@
 <br>
 
 <div align="center" margin-top="60px" >
-<img src="https://i.imgur.com/wFDVzHg.png" alt="Exemplo da aplicação" >
+<img src="https://i.imgur.com/fVcZt11.png" alt="Exemplo da aplicação" >
 </div>
 
 <br>
