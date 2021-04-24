@@ -51,6 +51,45 @@
         "type": "audio/x-m4a",
         "duration": 5044
       }
+    },
+    {
+      "id": "o-que-e-ui-ux",
+      "title": "devTalk #25 | O que é UX/UI?",
+      "members": "Diego Fernandes, Tiago Luchtenberg e Thainan Librelon",
+      "published_at": "2020-10-30 14:00:00",
+      "thumbnail": "https://images.unsplash.com/photo-1581368163672-d717bcb4c6af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI1fHxwb2RjYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p><p>Nesse episódio, Diego Fernandes se reúne com Thainan Librelon e Tiago Luchtenberg para discutir sobre: Desenvolvedor pode fazer o trabalho do UI/UX, qual impacto? Qual é o momento ideal pra ter pessoas especializadas em UX e UI? E afinal, o que é UI e o que é UX?</p>",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/design.m4a",
+        "type": "audio/x-m4a",
+        "duration": 2715
+      }
+    },
+    {
+      "id": "como-virar-lider-desenvolvimento",
+      "title": "devTalk #24 | Como virar líder de desenvolvimento?",
+      "members": "Diego Fernandes, João Paulo e Cleiton Souza",
+      "published_at": "2020-10-23 14:00:00",
+      "thumbnail": "https://images.unsplash.com/photo-1617540702506-89475a91c171?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQzfHxwb2RjYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev. Nesse episódio, Diego Fernandes se reúne com Cleiton Souza e João Paulo de Magalhães para discutir sobre liderança, considerando aspectos profissionais, técnicos e até mesmo emocionais, o que envolve ser um líder de desenvolvimento? Afinal, o que é um líder de desenvolvimento?</p>",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/lider-desenvolvimento.m4a",
+        "type": "audio/x-m4a",
+        "duration": 2917
+      }
+    },
+    {
+      "id": "estrategias-de-autenticacao-jwt-oauth",
+      "title": "devTalk #21 - Estratégias de autenticação, JWT, OAuth, qual usar?",
+      "members": "Diego Fernandes, Higo Ribeiro e Guilherme Pellizzetti",
+      "published_at": "2020-04-09 20:00:00",
+      "thumbnail": "https://images.unsplash.com/photo-1560775349-39d77e454b0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzh8fHBvZGNhc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "description": "<p>Três programadores conversam sobre estratégia de autenticação.</p><p>Vamos discutir quais aspectos você deve considerar na hora de fazer a sua escolha.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/autenticacao.m4a",
+        "type": "audio/x-m4a",
+        "duration": 1463
+      }
     }
   ]
 }
