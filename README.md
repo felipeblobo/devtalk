@@ -1,5 +1,7 @@
 # devTalk
 
+Acesse aqui: https://devtalk.vercel.app/
+
 <br>
 
 <div align="center" margin-top="60px" >
