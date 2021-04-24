@@ -32,7 +32,7 @@
       "members": "Diego Fernandes, Dani Leão, Wesley Williams e Lucas Santos",
       "published_at": "2021-01-08 13:00:00",
       "thumbnail": "https://images.unsplash.com/photo-1593697909777-138e8c90ac91?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHBvZGNhc3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "description": "<p>Os desenvolvedores Wesley Willians e Lucas Santos foram convidados para este devTalk para ter uma conversa sobre o que são micro-serviços e quais são os desafios e as barreiras de sua aplicação.</p><p>Nessa edição, Diego Fernandes e Daniele Evangelista guiam a conversa levantando tópicos e questionamentos relevantes sobre o assunto.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat.  #programação #rocketseat #programador #programador</p>",
+      "description": "<p>Os desenvolvedores Wesley Willians e Lucas Santos foram convidados para este devTalk para ter uma conversa sobre o que são micro-serviços e quais são os desafios e as barreiras de sua aplicação.</p><p>Nessa edição, Diego Fernandes e Daniele Evangelista guiam a conversa levantando tópicos e questionamentos relevantes sobre o assunto.</p>",
       "file": {
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/microservicos.m4a",
         "type": "audio/x-m4a",
@@ -45,24 +45,11 @@
       "members": "Diego Fernandes, Dani Leão, Otávio Lemos e Rodrigo Branas",
       "published_at": "2020-12-18 14:00:00",
       "thumbnail": "https://images.unsplash.com/photo-1593697821094-53ed19153f21?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHBvZGNhc3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "description": "<p>Diego Fernandes e Daniele Evangelista receberam Otávio Lemos e Rodrigo Branas para bater um papo sobre arquiteturas modernas de desenvolvimento, aplicadas na indústria da tecnologia.</p><p>Quais são os fundamentos, os princípios e a importância de debater arquiteturas neste ecossistema?</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat.  Ficha técnica Hosts: Diego Fernandes e Daniele Leão Evangelista Convidados: Otávio Lemos  e Rodrigo Branas Roteiro: Felipe Buzzi, Beatriz Clasen e Thiago Marinho Edição: Thiago Santana Produção: Leonardo Minatti</p>",
+      "description": "<p>Diego Fernandes e Daniele Evangelista receberam Otávio Lemos e Rodrigo Branas para bater um papo sobre arquiteturas modernas de desenvolvimento, aplicadas na indústria da tecnologia.</p><p>Quais são os fundamentos, os princípios e a importância de debater arquiteturas neste ecossistema?</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat.  Ficha técnica Hosts: Diego Fernandes e Daniele Leão Evangelista Convidados: Otávio Lemos  e Rodrigo Branas Roteiro: Felipe Buzzi, Beatriz Clasen e Thiago Marinho Edição: Thiago Santana Produção: Leonardo Minatti</p>",
       "file": {
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/clean.m4a",
         "type": "audio/x-m4a",
         "duration": 5044
-      }
-    },
-    {
-      "id": "entrevista-jose-valim-criador-do-elixir",
-      "title": "devTalk #26 | Especial: entrevista exclusiva com José Valim, criador da linguagem Elixir",
-      "members": "Diego Fernandes e José Valim",
-      "published_at": "2020-12-04 15:00:00",
-      "thumbnail": "https://images.unsplash.com/photo-1526328828355-69b01701ca6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHBvZGNhc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "description": "<p>Nesta edição especial de final de temporada tivemos a oportunidade de ter uma conversa com José Valim, dev brasileiro que criou a linguagem de programação Elixir — utilizada internacionalmente em diversas tecnologias, incluindo Discord e Pinterest.</p><p>O assunto da semana girou em diversos processos envolvidos na criação de uma linguagem nova, que propõe ser uma alternativa eficiente no mercado da tecnologia.</p><p>Além de tudo isso, Valim pôde falar de muito código e sobre a sua jornada e experiência em criar uma comunidade ativa por trás do open source.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/jose-valim.m4a",
-        "type": "audio/x-m4a",
-        "duration": 4396
       }
     },
     {
@@ -89,32 +76,6 @@
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/lider-desenvolvimento.m4a",
         "type": "audio/x-m4a",
         "duration": 2917
-      }
-    },
-    {
-      "id": "comunidades-e-tecnologia",
-      "title": "devTalk #23 | O que comunidades têm a ver com tecnologia?",
-      "members": "Diego Fernandes, Isabela Castilho e João Inácio",
-      "published_at": "2020-10-16 13:00:00",
-      "thumbnail": "https://images.unsplash.com/photo-1613293013187-9d6a2322519f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTUxfHxwb2RjYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O devTalk é um podcast inspirado no FalaDev da Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p><p>Nesse primeiro episódio da nova temporada, Diego Fernandes se reúne com Isabela Castilho e João Inácio Neto (Biro) para discutir sobre comunidades e o impacto que elas exercem na carreira de devs em busca do próximo nível. Afinal, O que é uma comunidade e o que tem a ver com tecnologia?</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/comunidade.m4a",
-        "type": "audio/x-m4a",
-        "duration": 2677
-      }
-    },
-    {
-      "id": "typescript-vale-a-pena",
-      "title": "devTalk #22 - TypeScript vale a pena? JavaScript perde sentido?",
-      "members": "Diego Fernandes, Mayk Brito e João Pedro",
-      "published_at": "2020-05-04 14:49:35",
-      "thumbnail": "https://images.unsplash.com/photo-1597154036887-59afbb411f3b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODh8fHBvZGNhc3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "description": "<p>Três programadores conversam sobre TypeScript.</p><p>Vamos discutir a usabilidade e as previsões da linguagem no cenário da programação.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
-      "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/typescript.m4a",
-        "type": "audio/x-m4a",
-        "duration": 1772
       }
     },
     {
