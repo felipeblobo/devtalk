@@ -7,6 +7,7 @@ import { convertDurationToTimeString } from "../utils/convertDurationToTimeStrin
 import styles from "../pages/home.module.scss";
 import Link from "next/link";
 import { usePlayer } from "../contexts/PlayerContext";
+import Head from 'next/head';
 
 type Episode = {
   id: string;
@@ -31,7 +32,12 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
   const episodeList = [...latestEpisodes, ...allEpisodes];
   
   return (
+
     <div className={styles.homepage}>
+      <Head>
+        <title>Home | devTalk</title>
+      </Head>
+
       <section className={styles.latestEpisodes}>
         <h2>Últimos lançamentos </h2>
 
