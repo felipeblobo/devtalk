@@ -5,7 +5,7 @@ Acesse aqui: https://devtalk.vercel.app/
 <br>
 
 <div align="center"  justify-content="center" margin-top="60px" >
- <h3>Desktop</h3>
+ <h3>Desktop version</h3>
  <img src="https://i.imgur.com/fVcZt11.png" alt="Exemplo da aplicação" >
 </div>
 
@@ -13,15 +13,12 @@ Acesse aqui: https://devtalk.vercel.app/
 
 <br>
 
-<center>
-	<table>
-		<tr>
-			<td>
-				<img width="400px" align="left" src="https://i.imgur.com/sJvEnoG.png"/>
-			</td>
-		</tr>
-	</table>
-</center>
+
+<div align="center"  justify-content="center" width='200px' margin-top="60px" >
+ <h3>Mobile version</h3>
+ <img src="https://i.imgur.com/sJvEnoG.png" alt="Exemplo da aplicação mobile" >
+</div>
+
 
 <br>
 <br>
