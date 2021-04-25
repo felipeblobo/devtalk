@@ -17,7 +17,7 @@ Acesse aqui: https://devtalk.vercel.app/
 	<table>
 		<tr>
 			<td>
-				<img width="400px" align="left" src=""https://i.imgur.com/sJvEnoG.png" "/>
+				<img width="400px" align="left" src="https://i.imgur.com/sJvEnoG.png"/>
 			</td>
 		</tr>
 	</table>
