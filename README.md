@@ -13,10 +13,15 @@ Acesse aqui: https://devtalk.vercel.app/
 
 <br>
 
-<div align="center"  justify-content="center" margin-top="60px" >
- <h3>Mobile</h3>
- <img src="https://i.imgur.com/sJvEnoG.png" alt="Exemplo da aplicação mobile" >
-</div>
+<center>
+	<table>
+		<tr>
+			<td>
+				<img width="400px" align="left" src=""https://i.imgur.com/sJvEnoG.png" "/>
+			</td>
+		</tr>
+	</table>
+</center>
 
 <br>
 <br>
