@@ -16,7 +16,7 @@ Acesse aqui: https://devtalk.vercel.app/
 
 <div align="center"  justify-content="center" width='200px' margin-top="60px" >
  <h3>Mobile version</h3>
- <img src="https://i.imgur.com/sJvEnoG.png" alt="Exemplo da aplicação mobile" >
+ <img width="300px" src="https://i.imgur.com/sJvEnoG.png" alt="Exemplo da aplicação mobile" >
 </div>
 
 
