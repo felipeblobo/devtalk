@@ -45,14 +45,16 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
           {latestEpisodes.map((episode, index) => {
             return (
               <li key={episode.id}>
-                <Image
-                  width={192}
-                  height={192}
-                  src={episode.thumbnail}
-                  alt={episode.title}
-                  objectFit="cover"
-                />
-
+                
+                  <Image
+                      width={192}
+                      height={192}
+                      src={episode.thumbnail}
+                      alt={episode.title}
+                      objectFit="cover"
+                    />
+                
+               
                 <div className={styles.episodeDetails}>
                   <Link href={`/episodios/${episode.id}`}>
                     <a>{episode.title}</a>
@@ -79,9 +81,9 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
             <tr>
               <th></th>
               <th>Podcast</th>
-              <th>Integrantes</th>
+              <th className={styles.integrantes}>Integrantes</th>
               <th>Data</th>
-              <th>Duração</th>
+              <th className={styles.duracao}>Duração</th>
               <th></th>
             </tr>
          
@@ -104,9 +106,9 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                     <a>{episode.title}</a>
                     </Link>
                   </td>
-                  <td>{episode.members}</td>
+                  <td className={styles.integrantes}>{episode.members}</td>
                   <td className={styles.toFitSize}>{episode.publishedAt}</td>
-                  <td>{episode.durationAsString}</td>
+                  <td className={styles.duracao}>{episode.durationAsString}</td>
                   <td>
                     <button type='button' onClick={() => playList(episodeList, index + latestEpisodes.length)}>
                       <img src="/play-orange.svg" alt="Tocar episódio" />

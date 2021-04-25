@@ -19,3 +19,26 @@
 
 }
 
+
+@media (max-width: 720px) {
+
+  .headerContainer {
+  height: 5rem;
+  padding: 1rem 2rem;
+
+  p {
+    font-size: 1rem;
+    margin-left: 1rem;
+    padding: 0rem 0 0.25rem 2rem;
+    border-left: 1px solid var(--gray-100);
+  }
+
+  span {
+    margin-left: auto;
+    font-size: .7rem;
+  }
+
+}
+
+
+}
