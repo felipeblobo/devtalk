@@ -5,13 +5,22 @@ Acesse aqui: https://devtalk.vercel.app/
 <br>
 
 <div align="center" margin-top="60px" >
-<img src="https://i.imgur.com/fVcZt11.png" alt="Exemplo da aplicação" >
+ <h3>Desktop</h3>
+ <img src="https://i.imgur.com/fVcZt11.png" alt="Exemplo da aplicação" >
 </div>
 
 <br>
 
+<br>
+
+<div align="center" margin-top="60px" >
+ <h3>Mobile</h3>
+ <img src="https://i.imgur.com/sJvEnoG.png" alt="Exemplo da aplicação mobile" >
+</div>
+
+<br>
 ## 💻 Project
-O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. 
+O # devTalk é uma aplicação que foi desenvolvida durante a Next Level Week 5 de React da RocketSeat. A aplicação permite a execução de um Player com Podcasts. 
 
 <br>
 <br>
@@ -31,6 +40,12 @@ O # devTalk é uma aplicação desenvolvida durante a Next Level Week 5 de React
 - [X] JSON-Server
 - [X] SASS
 - [X] Date-Fsn
+
+### Next Level
+- [X] Resposividade
+- [] Dark-theme
+- [] PWA
+
 
 ## 💻 Getting started
 
