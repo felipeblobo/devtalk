@@ -8,6 +8,9 @@ import { PlayerContextProvider } from '../contexts/PlayerContext';
 function MyApp({ Component, pageProps }) {
      return (
      <PlayerContextProvider>
+        <head>
+        <meta name="viewport" content="viewport-fit=cover" />
+        </head>
         <div className ={styles.wrapper}>
           <main>
               <Header />
